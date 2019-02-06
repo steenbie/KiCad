@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R220R_0603
+D Resistor 220R 0603
+K R res resistor 220R 0603
+F https://www.mouser.dk/datasheet/2/447/PYu-AC_51_RoHS_L_6-1152827.pdf
+$ENDCMP
+#
+$CMP R330R_0603
+D Resistor 330R 0603
+K R res resistor 330R 0603
+F https://www.mouser.dk/datasheet/2/447/PYu-AC_51_RoHS_L_6-1152827.pdf
+$ENDCMP
+#
+$CMP R390R_0603
+D Resistor 390R 0603
+K R res resistor 390R 0603
+F https://www.mouser.dk/datasheet/2/447/PYu-AC_51_RoHS_L_6-1152827.pdf
+$ENDCMP
+#
+$CMP R47R_0603
+D Resistor 47R 0603
+K R res resistor 47R 0603
+F https://www.mouser.dk/datasheet/2/447/PYu-AC_51_RoHS_L_6-1152827.pdf
+$ENDCMP
+#
+$CMP R47k_0603
+D Resistor 47k 0603
+K R res resistor 47k 0603
+F https://www.mouser.dk/datasheet/2/447/PYu-AC_51_RoHS_L_6-1152827.pdf
+$ENDCMP
+#
+#End Doc Library
